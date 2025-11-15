@@ -1,0 +1,13 @@
+com\easybbs\aspect\OperationAspect.class
+com\easybbs\controller\UserInfoController.class
+com\easybbs\EasybbsAdminApplication.class
+com\easybbs\controller\SysSettingController.class
+com\easybbs\interceptor\WebAppConfigurer.class
+com\easybbs\controller\ForumArticleController.class
+com\easybbs\controller\ForumBoardController.class
+com\easybbs\controller\base\GlobalExceptionHandlerController.class
+com\easybbs\controller\FileController.class
+com\easybbs\controller\LoginController.class
+com\easybbs\interceptor\AppInterceptor.class
+com\easybbs\controller\base\BaseController.class
+com\easybbs\InitRun.class
